@@ -1,7 +1,11 @@
 # Hi! I am Jero 👋
+
 I craft **data products and ML**, not notebooks. 
+
 Pipelines that don’t break. Models that actually deploy. Insights that move metrics. 
+
 I build systems that turn raw data into **decisions, automation, and revenue**.
+
 If it needs to be reliable, scalable, and measurable — I’m in.
 
 **Data/ML Engineer · Data Scientist · Data Analyst**  
@@ -62,7 +66,7 @@ If it needs to be reliable, scalable, and measurable — I’m in.
 
 - Deep Learning Specialization (Coursera)
 - IBM Data Engineering Specialization (Coursera)
-- MLOps | Machine Learning Operations Specialization (Coursera)
+- Machine Learning Operations Specialization (Coursera)
 - Data Visualization with Tableau Specialization (Coursera)
 - Applied Data Science with Python Specialization (Coursera)
 
@@ -81,9 +85,3 @@ If it needs to be reliable, scalable, and measurable — I’m in.
 - 🧑‍🔬 Google Scholar: https://scholar.google.com/citations?user=LEcqNAQAAAAJ
 - 🧑‍💻 GitHub: https://github.com/jerort
 
----
-
-## GitHub Stats (optional)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jerort&show_icons=true&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jerort&layout=compact)
