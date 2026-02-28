@@ -1,12 +1,12 @@
 # Hi! I am Jero 👋
 
-I craft **data products and ML**, not notebooks. 
+I ship **data and ML products**, not notebooks. 
 
 Pipelines that don’t break. Models that actually deploy. Insights that move metrics. 
 
 I build systems that turn raw data into **decisions, automation, and revenue**.
 
-If it needs to be reliable, scalable, and measurable — I’m in.
+Bring the mess. I’ll shape the system.
 
 **Data/ML Engineer · Data Scientist · Data Analyst**  
 📍 Almería, Spain · 🌍 Remote-friendly
