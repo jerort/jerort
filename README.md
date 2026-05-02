@@ -8,7 +8,7 @@ I build systems that turn raw data into **decisions, automation, and revenue**.
 
 Bring the mess. I’ll shape the system.
 
-**Data/ML Engineer · Data Scientist · Data Analyst**  
+**Data/ML Engineer · Data Scientist · Research Engineer**  
 📍 Almería, Spain · 🌍 Remote-friendly
 
 ---
