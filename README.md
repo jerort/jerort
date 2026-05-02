@@ -29,8 +29,8 @@ Bring the mess. I’ll shape the system.
 - Also: R, MATLAB/Simulink, C++, Ada
 
 ### Cloud & Data (GCP)
-- **BigQuery**, **Cloud Run**, **Firebase/Firestore**
-- **Vertex AI**, **Cloud Build**
+- **dbt**, **BigQuery**, **Firebase/Firestore**
+- **Vertex AI**, **Cloud Run**, **Cloud Build**
 - **Cloud Composer / Apache Airflow**
 
 ### ML / Data Science
@@ -41,6 +41,7 @@ Bring the mess. I’ll shape the system.
 ### APIs, Services & Tooling
 - **FastAPI**
 - **Docker**
+- **Terraform**
 - **Git (GitHub/GitLab)**, **pytest**, **CI/CD**
 
 ### Analytics & GIS
